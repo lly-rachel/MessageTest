@@ -14,7 +14,6 @@ class MainActivity : AppCompatActivity() {
 
     private lateinit var binding : ActivityMainBinding
 
-    private var adapter : MsgAdapter? = null
     private val msgList = ArrayList<Msg>()
 
 
